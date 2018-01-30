@@ -10,6 +10,4 @@ RUN yarn install --frozen-lockfile
 
 COPY . /react-static-base
 
-RUN yarn test
-
 CMD ["yarn", "build"]
