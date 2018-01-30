@@ -5720,9 +5720,9 @@ react-side-effect@^1.1.0:
     exenv "^1.2.1"
     shallowequal "^1.0.1"
 
-react-static@5.0.0-beta.0:
-  version "5.0.0-beta.0"
-  resolved "https://registry.yarnpkg.com/react-static/-/react-static-5.0.0-beta.0.tgz#9306566522d09bad30334dc75ff10a159c75d968"
+react-static@5.0.0-beta.1:
+  version "5.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/react-static/-/react-static-5.0.0-beta.1.tgz#361009cc7bc8ba40fb1b8f2f8a866dfb21b09961"
   dependencies:
     "@types/react" "^16.0.18"
     "@types/react-helmet" "^5.0.3"
