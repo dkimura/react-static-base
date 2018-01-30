@@ -1,25 +1,18 @@
 {
-  "compileOnSave": false,
   "compilerOptions": {
-    "target": "esnext",
-    "module": "esnext",
-    "jsx": "preserve",
     "allowJs": true,
+    "baseUrl": "./src",
+    "jsx": "preserve",
+    "lib": ["dom", "es2015", "es2016"],
+    "module": "esnext",
     "moduleResolution": "node",
-    "allowSyntheticDefaultImports": true,
-    "noImplicitAny": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "removeComments": false,
     "preserveConstEnums": true,
+    "removeComments": false,
     "sourceMap": true,
-    "skipLibCheck": true,
-    "baseUrl": ".",
-    "paths": {
-      "@myPathAlias/*": ["src/path-alias-example/*"]
-    },
-    "typeRoots": ["./node_modules/@types"],
-    "lib": ["dom", "es2015", "es2016"]
+    "strict": true,
+    "target": "esnext"
   },
   "exclude": ["dist/**/*", "public/**/*"]
 }

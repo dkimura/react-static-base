@@ -1,4 +1,4 @@
-import React from 'react'
+import * as React from 'react'
 
 // Example of using paths alias via tsconfig.json to easily re-use legacy code
 // Also, use TypeScript and JavaScript interchangeably.

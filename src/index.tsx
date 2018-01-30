@@ -1,9 +1,9 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
+import * as React from 'react'
+import * as ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
 
 // Your top level component
-import App from './App'
+import App from 'App'
 
 // Export your top level component (for static rendering)
 export default App
