@@ -111,9 +111,9 @@
   version "8.9.1"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.9.1.tgz#5a329d73a97f3c5a626dfe0ed8c0b831fee5357a"
 
-"@types/node@9.6.14":
-  version "9.6.14"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-9.6.14.tgz#79b5167f822d5fb0fb2b5c92ca150391ae0f2542"
+"@types/node@9.6.15":
+  version "9.6.15"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-9.6.15.tgz#8a5a313ea0a43a95277235841be5d3f5fb3dfeda"
 
 "@types/react-dom@16.0.5":
   version "16.0.5"
