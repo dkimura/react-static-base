@@ -111,9 +111,9 @@
   version "8.9.1"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.9.1.tgz#5a329d73a97f3c5a626dfe0ed8c0b831fee5357a"
 
-"@types/node@9.6.37":
-  version "9.6.37"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-9.6.37.tgz#0db79d7429a9ca21482630e653f3b27877291400"
+"@types/node@9.6.38":
+  version "9.6.38"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-9.6.38.tgz#01fb3f7ee5da861fa7dd4c518f1fa7b01ba39b7f"
 
 "@types/prop-types@*":
   version "15.5.4"
